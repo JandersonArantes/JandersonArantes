@@ -1,6 +1,19 @@
-## Olá! Sou o Janderson Alves Arantes
+```
+Formado em Análise de Sistemas. 
+Conhecimento em C#, Python, SQL, PL/SQL, HTML, CSS e JS.
 
-- 💻 Estou estudando desenvolvimento C#.NET / ASP.NET Core com o MÉTODO .NET DIRETO AO PONTO (http://www.luisdev.com.br/)
+Trabalhei como Analista de Suporte TI. 
+   - Compliance Soluções >> Ribeirão Preto - SP
+   - ATOS (São Paulo) >> Cliente: Veralha >> Porto Ferreira - SP
+   - Atacado Ideal >> Porto Ferreira - SP
+  
+Experiência com geração de relatórios utilizando Stimulsoft (ERP benner) com consultas SQL(Oracle).
+
+Busco oportunidade (Trainee/Estagiário/Assistente) para trabalhar como 
+- DEV/DBA back-end (C#.NET / Python / SQL Server / Oracle) 
+- Dev front-end (HTML / CSS / Angular). 
+- Ou Analista de Suporte
+```
 
 <div align="center">
   <a href="https://github.com/JandersonArantes">

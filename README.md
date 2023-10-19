@@ -1,5 +1,4 @@
 
-```
 Formado em Análise de Sistemas. 
 Conhecimento em C#, Python, SQL, PL/SQL, HTML, CSS e JS.
 
@@ -14,7 +13,7 @@ Busco oportunidade (Trainee/Estagiário/Assistente) para trabalhar como
 - DEV/DBA back-end (C#.NET / Python / SQL Server / Oracle) 
 - Dev front-end (HTML / CSS / Angular). 
 - Ou Analista de Suporte
-```
+
 
 <div align="center">
   <a href="https://github.com/JandersonArantes">

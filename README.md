@@ -9,8 +9,8 @@ Trabalhei como Analista de Suporte TI.
   
 Experiência com geração de relatórios utilizando Stimulsoft (ERP benner) com consultas SQL(Oracle).
 
-Busco oportunidade (Trainee/Estagiário/Assistente) para trabalhar como 
-- Desenvolvedor / DBA / Analista De Suporte
+Busco oportunidade (Trainee/Júnior) para trabalhar como 
+- Desenvolvedor C#
 
 
 <div align="center">

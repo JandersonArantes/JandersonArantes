@@ -1,8 +1,9 @@
 
 Formado em Análise de Sistemas. 
-Conhecimento em C#, Python, SQL, PL/SQL, HTML, CSS e JS.
+Conhecimento em C# e SQL.
 
 Trabalhei como Analista de Suporte TI. 
+   - Pasquali Solution >> NTT Data >> Cliente: Royal Canin - Descalvado - SP
    - Compliance Soluções >> Ribeirão Preto - SP
    - ATOS (São Paulo) >> Cliente: Veralha >> Porto Ferreira - SP
    - Atacado Ideal >> Porto Ferreira - SP

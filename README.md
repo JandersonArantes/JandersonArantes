@@ -8,9 +8,7 @@ Trabalhei como Analista de Suporte TI.
    - ATOS (São Paulo) >> Cliente: Veralha >> Porto Ferreira - SP
    - Atacado Ideal >> Porto Ferreira - SP
   
-Experiência com geração de relatórios utilizando Stimulsoft (ERP benner) com consultas SQL(Oracle).
-
-Busco oportunidade (Trainee/Júnior) para trabalhar como: Desenvolvedor .NET / Analista de dados / Analista de suporte
+Busco oportunidade em Desenvolvimento C# .NET (Trainee/Júnior) 
 
 
 <div align="center">

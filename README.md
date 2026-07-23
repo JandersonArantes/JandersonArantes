@@ -5,7 +5,7 @@ Conhecimento em C# e SQL.
 Trabalhei como Analista de Suporte TI. 
    - Pasquali Solution >> NTT Data >> Cliente: Royal Canin - Descalvado - SP
    - Compliance Soluções >> Ribeirão Preto - SP
-   - ATOS (São Paulo) >> Cliente: Veralha >> Porto Ferreira - SP
+   - ATOS (São Paulo) >> Cliente: Verallia >> Porto Ferreira - SP
    - Atacado Ideal >> Porto Ferreira - SP
   
 Busco oportunidade em Desenvolvimento C# .NET (Trainee/Júnior) 
